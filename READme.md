@@ -6,12 +6,14 @@
       * AngularBeans [Link](http://bessemhmidi.github.io/AngularBeans/)
       * AceJS [Link](https://ace.c9.io/)
       * AnimeJS [Link](http://anime-js.com/)
+      * AnyPixelJS [Link](http://googlecreativelab.github.io/anypixel/)
 *  B
       * BananaJS [Link](http://bananajs.com/)
       * BeanJS [Link](http://chrisedg87.github.io/BeanJS/)
       * BoxJs [Link](https://github.com/CapacitorSet/box-js)
       * BoomerangJS [Link](http://www.boomerangjs.org/)
       * BabylonJS [Link](http://www.babylonjs.com/)
+      * BarbaJs [Link](http://barbajs.org/)
 *  C
       * CountUpJS [Link](https://inorganik.github.io/countUp.js/)
       * CycleJs [Link](http://cycle.js.org/)
@@ -47,10 +49,14 @@
       * KeyBoardJS [Link](https://github.com/RobertWHurst/KeyboardJS)
       * KeenJS [Link](https://github.com/keen/keen-js)
       * KarmaJS [Link](https://karma-runner.github.io/1.0/index.html)
+      * KakapoJS [Link](http://devlucky.github.io/kakapo-js)
 *  L
       * LightningJs [Link](https://github.com/olark/lightningjs)
       * LifeJS [Link](http://jimallanson.github.io/lifejs/)
       * LikeJS [Link](http://batiste.github.io/)
+      * LokiJs [Link](http://lokijs.org/#/)
+      * LeopardJs [Link](http://changbenny.github.io/leopard/)
+      * LovliJs [Link](https://github.com/flipace/lovli.js)
 *  M
       * MithrilJs [Link](http://mithril.js.org/)
       * MoneyJs [Link](http://openexchangerates.github.io/money.js/)
@@ -106,6 +112,7 @@
       * WireJS [Link](https://github.com/cujojs/wire)
 *  X
       * XenJS [Link](https://github.com/Dudemullet/xenjs)
+      * XeonJS [Link](https://github.com/hzlmn/xeon)
 *  Y
       * YellowJS [Link](https://github.com/YellowJS/yellowjs-framework)
       * Y-JS [Link](http://y-js.org/)
