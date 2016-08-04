@@ -62,6 +62,7 @@
       * MoneyJs [Link](http://openexchangerates.github.io/money.js/)
       * MelonJS [Link](http://melonjs.org/)
       * MaggieJS [Link](https://github.com/zzarcon/maggie)
+      * MomentJS [Link](http://momentjs.com/)
 *  N
       * NodeJS [Link](https://nodejs.org/)
       * NanoJs [Link](http://nanojs.org/)
