@@ -114,5 +114,7 @@
 
 ----------------------
 By @jihdeh
+
 Contributions Welcome.
+
 MIT Licence.
