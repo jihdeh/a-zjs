@@ -111,3 +111,8 @@
       * Y-JS [Link](http://y-js.org/)
 *  Z
       * ZeroJS [Link](https://github.com/smitec/zero-js)
+      * ZingTouchJs [Link](https://zingchart.github.io/zingtouch/)
+
+-----------------------------------------
+### BY @Jihdeh
+MIT Licence.
