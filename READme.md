@@ -113,6 +113,9 @@
       * ZeroJS [Link](https://github.com/smitec/zero-js)
       * ZingTouchJs [Link](https://zingchart.github.io/zingtouch/)
 
------------------------------------------
-### BY @Jihdeh
+-----------------------------------
+By @jihdeh
+
+Contributions Welcome.
+
 MIT Licence.
