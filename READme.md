@@ -2,7 +2,7 @@
 
 *  A
       * [AngularJS](https://angularjs.org/)
-      * [AurielaJs](http://aurelia.io/)
+      * [AureliaJs](http://aurelia.io/)
       * [AngularBeans](http://bessemhmidi.github.io/AngularBeans/)
       * [AceJS](https://ace.c9.io/)
       * [AnimeJS](http://anime-js.com/)
