@@ -29,7 +29,7 @@
 *  E
       * [EaselJs](http://www.createjs.com/easeljs)
       * [EchoJs](http://www.echojs.com/)
-      * [EggJS
+      * EggJS
       * [EmberJS](http://emberjs.com/)
 *  F
       * [FanJs](http://www.fanjs.net/)
